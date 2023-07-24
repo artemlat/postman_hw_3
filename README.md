@@ -2,6 +2,7 @@
 *Here I continued to learn how to create requests, use autotests, use functions and cycles in Postman.*  
 
 ### EP_1 (/login)  
+
 ```
 1) необходимо залогиниться
 POST
@@ -13,6 +14,12 @@ password : str
 ```
 
 ![EP_1](https://github.com/artemlat/postman_hw_3/blob/main/EP_1.png)
+
+### EP_2 (/user_info)
+
+```
+
+
 
 
 
