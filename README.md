@@ -54,4 +54,5 @@ resp.
 
 ### EP_2 (/get_test_user)
 
-![EP_2_10]()
+![EP_2_10](https://github.com/artemlat/postman_hw_3/blob/main/EP_2_10.png)
+![EP_2_11]()
