@@ -80,4 +80,4 @@ Resp.
 4) проверить, что 2-й элемент массива salary больше 1-го и 0-го
 ```
 
-![EP_3_1]()
+![EP_3_1](https://github.com/artemlat/postman_hw_3/blob/main/EP_3(1).png)
