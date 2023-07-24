@@ -12,7 +12,7 @@ password : str
 
 Приходящий токен необходимо передать во все остальные запросы.
 ```
-![EP_1_1]()
+![EP_1_1](https://github.com/artemlat/postman_hw_3/blob/main/EP_1_1.png)
 ![EP_1](https://github.com/artemlat/postman_hw_3/blob/main/EP_1.png)
 
 ### EP_2 (/user_info)
