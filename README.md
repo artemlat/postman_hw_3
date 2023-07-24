@@ -47,5 +47,5 @@ resp.
 ![EP_2_3](https://github.com/artemlat/postman_hw_3/blob/main/EP_2(3).png)
 ![EP_2_4](https://github.com/artemlat/postman_hw_3/blob/main/EP_2(4).png)
 ![EP_2_5](https://github.com/artemlat/postman_hw_3/blob/main/EP_2(5).png)
-![EP_2_6]()
-
+![EP_2_6](https://github.com/artemlat/postman_hw_3/blob/main/EP_2(6).png)
+![EP_2_7]()
