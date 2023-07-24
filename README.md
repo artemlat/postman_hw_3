@@ -56,3 +56,7 @@ resp.
 
 ![EP_2_10](https://github.com/artemlat/postman_hw_3/blob/main/EP_2_10.png)
 ![EP_2_11](https://github.com/artemlat/postman_hw_3/blob/main/EP_2(11).png)
+
+### EP_3 (/new_data)
+
+![EP_3_1]()
