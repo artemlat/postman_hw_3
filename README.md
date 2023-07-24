@@ -10,6 +10,7 @@ login : str (кроме /)
 password : str
 
 Приходящий токен необходимо передать во все остальные запросы.
+![EP_1](https://github.com/artemlat/postman_hw_3/blob/main/EP_1.png)
 ```
 
 
