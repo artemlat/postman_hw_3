@@ -44,7 +44,7 @@ resp.
 ```
 ![EP_2_1](https://github.com/artemlat/postman_hw_3/blob/main/EP_2_1.png)
 ![EP_2_2](https://github.com/artemlat/postman_hw_3/blob/main/EP_2(2).png)
-![EP_2_3](https://github.com/artemlat/postman_hw_3/blob/main/EP_2(2).png)
+![EP_2_3]()
 ![EP_2_4]()
 
 
