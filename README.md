@@ -113,4 +113,4 @@ Resp.
 3) В ответе указаны коэффициенты умножения weight, напишите тесты по проверке правильности результата перемножения на коэффициент.
 ```
 ![EP_4_1](https://github.com/artemlat/postman_hw_3/blob/main/EP_4(1).png)
-
+![EP_4_2](https://github.com/artemlat/postman_hw_3/blob/main/EP_4(2).png)
