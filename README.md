@@ -114,3 +114,5 @@ Resp.
 ```
 ![EP_4_1](https://github.com/artemlat/postman_hw_3/blob/main/EP_4(1).png)
 ![EP_4_2](https://github.com/artemlat/postman_hw_3/blob/main/EP_4(2).png)
+![EP_4_3](https://github.com/artemlat/postman_hw_3/blob/main/EP_4(3).png)
+![EP_4_4]()
