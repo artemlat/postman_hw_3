@@ -87,3 +87,28 @@ Resp.
 ![EP_3_5](https://github.com/artemlat/postman_hw_3/blob/main/EP_3(5).png)
 ![EP_3_6](https://github.com/artemlat/postman_hw_3/blob/main/EP_3(6).png)
 ![EP_3_7](https://github.com/artemlat/postman_hw_3/blob/main/EP_3(7).png)
+
+### EP_4 (/test_pet_info)
+
+```
+4) http://162.55.220.72:5005/test_pet_info
+req.
+POST
+age: int
+weight: int
+name: str
+auth_token
+
+
+Resp.
+{'name': name,
+ 'age': age,
+ 'daily_food':weight * 0.012,
+ 'daily_sleep': weight * 2.5}
+
+
+Тесты:
+1) Статус код 200
+2) Проверка структуры json в ответе.
+3) В ответе указаны коэффициенты умножения weight, напишите тесты по проверке правильности результата перемножения на коэффициент.
+```
