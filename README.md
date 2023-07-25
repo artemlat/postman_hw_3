@@ -185,3 +185,28 @@ Resp. Передаётся список массив объектов.
 ![EP_6_2](https://github.com/artemlat/postman_hw_3/blob/main/EP_6(2).png)
 ![EP_6_3](https://github.com/artemlat/postman_hw_3/blob/main/EP_6(3).png)
 ![EP_6_4](https://github.com/artemlat/postman_hw_3/blob/main/EP_6(4).png)
+
+### EP_7 (/curr_byn)
+
+```
+7) http://162.55.220.72:5005/curr_byn
+req.
+POST
+auth_token
+curr_code: int
+
+Resp.
+{
+    "Cur_Abbreviation": str
+    "Cur_ID": int,
+    "Cur_Name": str,
+    "Cur_OfficialRate": float,
+    "Cur_Scale": int,
+    "Date": str
+}
+
+Тесты:
+1) Статус код 200
+2) Проверка структуры json в ответе.
+```
+![EP_7_1]()
