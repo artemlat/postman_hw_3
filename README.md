@@ -183,4 +183,5 @@ Resp. Передаётся список массив объектов.
 ```
 ![EP_6_1](https://github.com/artemlat/postman_hw_3/blob/main/EP_6(1).png)
 ![EP_6_2](https://github.com/artemlat/postman_hw_3/blob/main/EP_6(2).png)
-![EP_6_3]()
+![EP_6_3](https://github.com/artemlat/postman_hw_3/blob/main/EP_6(3).png)
+![EP_6_4]()
