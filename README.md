@@ -154,4 +154,4 @@ Resp.
 ![EP_5_7](https://github.com/artemlat/postman_hw_3/blob/main/EP_5(7).png)
 ![EP_5_9](https://github.com/artemlat/postman_hw_3/blob/main/EP_5(9).png)
 ![EP_5_10](https://github.com/artemlat/postman_hw_3/blob/main/EP_5(10).png)
-![EP_5_11]()
+![EP_5_11](https://github.com/artemlat/postman_hw_3/blob/main/EP_5(11).png)
