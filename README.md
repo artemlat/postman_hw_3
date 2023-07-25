@@ -118,3 +118,30 @@ Resp.
 ![EP_4_4](https://github.com/artemlat/postman_hw_3/blob/main/EP_4(4).png)
 ![EP_4_6](https://github.com/artemlat/postman_hw_3/blob/main/EP_4(6).png)
 ![EP_4_7](https://github.com/artemlat/postman_hw_3/blob/main/EP_4(7).png)
+
+### EP_5 (/get_test_user)
+
+```
+5) http://162.55.220.72:5005/get_test_user
+req.
+POST
+age: int
+salary: int
+name: str
+auth_token
+
+Resp.
+{'name': name,
+ 'age':age,
+ 'salary': salary,
+ 'family':{'children':[['Alex', 24],['Kate', 12]],
+ 'u_salary_1.5_year': salary * 4}
+  }
+
+Тесты:
+1) Статус код 200
+2) Проверка структуры json в ответе.
+3) Проверить что занчение поля name = значению переменной name из окружения
+4) Проверить что занчение поля age в ответе соответсвует отправленному в запросе значению поля age
+```
+
