@@ -211,4 +211,5 @@ Resp.
 ```
 ![EP_7_1](https://github.com/artemlat/postman_hw_3/blob/main/EP_7(1).png)
 ![EP_7_2](https://github.com/artemlat/postman_hw_3/blob/main/EP_7(2).png)
-![EP_7_3]()
+![EP_7_3](https://github.com/artemlat/postman_hw_3/blob/main/EP_7(3).png)
+![EP_7_4]()
