@@ -210,4 +210,5 @@ Resp.
 2) Проверка структуры json в ответе.
 ```
 ![EP_7_1](https://github.com/artemlat/postman_hw_3/blob/main/EP_7(1).png)
-![EP_7_2]()
+![EP_7_2](https://github.com/artemlat/postman_hw_3/blob/main/EP_7(2).png)
+![EP_7_3]()
