@@ -214,4 +214,25 @@ Resp.
 ![EP_7_3](https://github.com/artemlat/postman_hw_3/blob/main/EP_7(3).png)
 ![EP_7_4](https://github.com/artemlat/postman_hw_3/blob/main/EP_7(4).png)
 ![EP_7_5](https://github.com/artemlat/postman_hw_3/blob/main/EP_7(5).png)
-![EP_7_6]()
+![EP_7_6](https://github.com/artemlat/postman_hw_3/blob/main/EP_7(6).png)
+
+### Star task
+
+```
+1) получить список валют
+2) итерировать список валют
+3) в каждой итерации отправлять запрос на сервер для получения курса каждой валюты
+4) если возвращается 500 код, переходим к следующей итреации
+5) если получаем 200 код, проверяем response json на наличие поля "Cur_OfficialRate"
+6) если поле есть, пишем в консоль инфу про фалюту в виде response
+{
+    "Cur_Abbreviation": str
+    "Cur_ID": int,
+    "Cur_Name": str,
+    "Cur_OfficialRate": float,
+    "Cur_Scale": int,
+    "Date": str
+}
+7) переходим к следующей итерации
+```
+
