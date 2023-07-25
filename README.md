@@ -236,4 +236,6 @@ Resp.
 7) переходим к следующей итерации
 ```
 ![EP_Star_1](https://github.com/artemlat/postman_hw_3/blob/main/Star(1).png)
-![EP_Star_2]()
+![EP_Star_2](https://github.com/artemlat/postman_hw_3/blob/main/Star(2).png)
+![EP_Star_3](https://github.com/artemlat/postman_hw_3/blob/main/Star(3).png)
+![EP_Star_4]()
