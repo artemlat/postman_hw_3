@@ -235,4 +235,5 @@ Resp.
 }
 7) переходим к следующей итерации
 ```
-
+![EP_Star_1](https://github.com/artemlat/postman_hw_3/blob/main/Star(1).png)
+![EP_Star_2]()
