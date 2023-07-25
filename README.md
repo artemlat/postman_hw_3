@@ -155,3 +155,30 @@ Resp.
 ![EP_5_9](https://github.com/artemlat/postman_hw_3/blob/main/EP_5(9).png)
 ![EP_5_10](https://github.com/artemlat/postman_hw_3/blob/main/EP_5(10).png)
 ![EP_5_11](https://github.com/artemlat/postman_hw_3/blob/main/EP_5(11).png)
+
+### EP_6 (/currency)
+
+```
+6) http://162.55.220.72:5005/currency
+req.
+POST
+auth_token
+
+Resp. Передаётся список массив объектов.
+[
+{"Cur_Abbreviation": str,
+ "Cur_ID": int,
+ "Cur_Name": str
+}
+…
+{"Cur_Abbreviation": str,
+ "Cur_ID": int,
+ "Cur_Name": str
+}
+]
+
+Тесты:
+1) Можете взять любой объект из присланного списка, используйте js random.
+В объекте возьмите Cur_ID и передать через окружение в следующий запрос.
+```
+![EP_6_1]()
