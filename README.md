@@ -209,4 +209,5 @@ Resp.
 1) Статус код 200
 2) Проверка структуры json в ответе.
 ```
-![EP_7_1]()
+![EP_7_1](https://github.com/artemlat/postman_hw_3/blob/main/EP_7(1).png)
+![EP_7_2]()
