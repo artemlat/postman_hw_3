@@ -87,7 +87,7 @@ Resp.
 ![EP_3_5](https://github.com/artemlat/postman_hw_3/blob/main/EP_3(5).png)
 ![EP_3_6](https://github.com/artemlat/postman_hw_3/blob/main/EP_3(6_6).png)
 ![EP_3_6_6](https://github.com/artemlat/postman_hw_3/blob/main/EP_3(6_6_6).png)
-![EP_3_7](https://github.com/artemlat/postman_hw_3/blob/main/EP_3(7).png)
+![EP_3_7](https://github.com/artemlat/postman_hw_3/blob/main/EP_3(7_7).png)
 
 ### EP_4 (/test_pet_info)
 
