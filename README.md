@@ -241,3 +241,4 @@ Resp.
 ![EP_Star_3](https://github.com/artemlat/postman_hw_3/blob/main/star(3_3).png)
 ![EP_Star_4](https://github.com/artemlat/postman_hw_3/blob/main/Star(4).png)
 ![EP_Star_5](https://github.com/artemlat/postman_hw_3/blob/main/Star(5).png)
+![EP_Star_6](https://github.com/artemlat/postman_hw_3/blob/main/star_res.png)
